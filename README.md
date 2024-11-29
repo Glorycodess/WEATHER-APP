@@ -12,7 +12,7 @@ RUNNING LOCALLY
 1. Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/weather-app.git  
+git clone https://github.com/glorycodess/weather-app.git  
 cd weather-app  
 2. Get a free API key from OpenWeatherMap and replace YOUR_API_KEY in script.js.
 3. Open index.html in your browser.
